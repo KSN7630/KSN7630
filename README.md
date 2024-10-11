@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Narkhede</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Finantial KPI Web Application**
 
-- 🌱 I’m currently learning **Data Science and Finance Skills**
 
 - 📫 How to reach me **narkhede.1@iitj.ac.in**
 
