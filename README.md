@@ -3,7 +3,7 @@
 
 
 
-- 📫 How to reach me **narkhede.1@iitj.ac.in**
+- 📫 How to reach me **kartiknarkhede53032@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
